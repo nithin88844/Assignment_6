@@ -1,0 +1,41 @@
+{
+    "employee_details" :[
+        {
+            "name": "aksa", 
+            "DOB": "24/12/1998", 
+            "Height": 167, 
+            "City": "kollam",
+            "State":"kerala"
+        },
+        {
+            "name": "nithin", 
+            "DOB": "29/06/1998", 
+            "Height": 177, 
+            "City": "kollam",
+            "State":"kerala"  
+        },
+        {
+            "name": "chitra", 
+            "DOB": "23/12/1998", 
+            "Height": 157, 
+            "City": "kollam",
+            "State":"kerala"   
+        },
+        {
+            "name": "anu", 
+            "DOB": "24/05/1998", 
+            "Height": 142, 
+            "City": "ernakulam",
+            "State":"kerala"
+        },
+        {
+            "name": "akhil", 
+            "DOB": "27/07/1998", 
+            "Height": 152, 
+            "City": "kollam",
+            "State":"kerala"
+        }
+    ]
+}
+
+            
